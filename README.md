@@ -13,7 +13,7 @@
 
 3. Используем команду : migrate -path ./shema -database 'postgres://postgres:qwerty@localhost:5436/postgres?sslmode=disable' up
 
-Если вы измените конфигурацию базы данных не забудьте изменить эту командую
+Если вы измените конфигурацию базы данных не забудьте изменить эту команду
 
 4.go run cmd/main.go.
 
